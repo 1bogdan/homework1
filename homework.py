@@ -1,9 +1,7 @@
-# Declare a variable and initialize
+# Declare a variable and initializ
+
 name = 'bogdan'
-print name
-
-last = 'ivancha'
-print last
-
+surname = 'ivancha'
 age = 13
-print age
+print(name, surname, age)
+
